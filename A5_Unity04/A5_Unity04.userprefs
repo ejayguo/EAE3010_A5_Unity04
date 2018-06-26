@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ControllerHUD.cs">
+    <Files>
+      <File FileName="Assets/UIController.cs" Line="42" Column="32" />
+      <File FileName="Assets/ControllerMain.cs" Line="29" Column="1" />
+      <File FileName="Assets/ControllerHUD.cs" Line="22" Column="42" />
+      <File FileName="Assets/InputName.cs" Line="20" Column="32" />
+      <File FileName="Assets/ControllerPause.cs" Line="26" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
